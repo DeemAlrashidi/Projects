@@ -13,6 +13,18 @@
 ✅ Evaluate key **factors** affecting fuel efficiency.  
 ✅ Optimize vehicle selection based on **CO₂ emissions**.  
 
+## 📝 Example Results
+
+### Model Comparison
+| Model               | R² Score | MSE       |
+|---------------------|----------|-----------|
+| Linear Regression   | 0.78     | 10.5      |
+| Random Forest       | 0.88     | 7.4       |
+| Decision Tree       | 0.80     | 9.6       |
+| ANN                 | 0.85     | 8.2       |
+| KNN                 | 0.76     | 11.0      |
+| AdaBoost            | 0.84     | 8.8       |
+
 ## 📍 Key Requirements
 *Libraries:*
    - TensorFlow
