@@ -1,5 +1,5 @@
 ## 🤖 Prolog Expert Computer Recommendation System 
-*Second Place Winner At IAU's AI Project's Expo Competition*
+*This project implements an **Expert System** using **Prolog**, a logic programming language. The system uses a flowchart-based logic to solve specific problems or provide expert advice.*
 
 ## 📜 Project Overview 
 - **Purpose**: Provide expert advice in a specific domain using logical rules and facts.
