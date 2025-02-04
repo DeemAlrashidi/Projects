@@ -1,33 +1,35 @@
-## 🚗💨 Fuel Consumption Prediction Using Machine Learning: ⛽
+## 🤖 Prolog Expert Computer Recommendation System 
 *Second Place Winner At IAU's AI Project's Expo Competition*
 
 ## 📜 Project Overview 
-- **Data Collection**: Utilized a dataset from Kaggle containing vehicle specifications and their corresponding fuel consumption metrics.
-- **Data Preprocessing**: Cleaned and prepared the data for modeling.
-- **Feature Engineering**: Extracted relevant features such as engine size, number of cylinders, and vehicle class.
-- **Modeling**: Implemented and compared multiple machine learning models to predict fuel consumption.
-*The Highest Accuracy this work obtained was by the SVM model which scored 99.3%*
+- **Purpose**: Provide expert advice in a specific domain using logical rules and facts.
+- **Language**: Implemented in **Prolog** for reasoning and inference.
+- **Features**:
+  - Uses a well-defined flowchart for logical decision-making.
+  - Efficiently queries and infers results based on user inputs.
 
 ## 🎯 Objectives
-✅ Predict **fuel consumption** using machine learning models.  
-✅ Evaluate key **factors** affecting fuel efficiency.  
-✅ Optimize vehicle selection based on **CO₂ emissions**.  
+
+✅ Develop an expert system capable of solving complex problems based on user input.
+✅ Provide accurate advice by applying logical rules and facts stored in the system.
+✅ Implement clear and modular logic for efficient reasoning.
+✅ Create a flowchart to visualize the decision-making process for better understanding.
 
 ## 📍 Key Requirements
-*Libraries:*
-   - TensorFlow
-   - NumPy
-   - Pandas
-   - Sklearn
-   - Matplotlib
+1. **Libraries**:
+   - **SWI-Prolog** or any compatible Prolog interpreter.
+
+2. **Files**:
+   - `Source File.pl`: Contains all rules, facts, and queries for the expert system.
+   - `flowchart.png`: Visual representation of the system's logical workflow.
+
+3. **System Requirements**:
+   - A computer with **Windows, macOS, or Linux**.
+   - At least **1 GB of free disk space** for Prolog installation and project files.
 
 ## Contributions 👩‍💻
-- Shahd Alshredh
-- Sana Araj
-- Sara Thaer
-- Shahad Alsadah
-- Shahad Alsadah
+- Ghadeer Alsarar
 - Lama Alhujaili
 
 ## Acknowledgments ✨
-*We would like to thank Dr. Nawaf Alharbi for his guidance in this project.*
+*We would like to thank Ms. Sarah Althubaiti for her guidance in this project.*
