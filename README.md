@@ -1,32 +1,28 @@
-# 🏥 Al Shifaa Hospital Management System
+## 🤖 Prolog Expert Computer Recommendation System 
+*This project implements an **Expert System** using **Prolog**, a logic programming language. The system uses a flowchart-based logic to solve specific problems or provide expert advice.*
 
-*This project implements a **Hospital Management System** using **Java** with a user-friendly graphical interface, streamlining hospital operations and ensuring efficient management.*
-
-## 📜 Project Overview
-
-- **Purpose**: Provide an efficient and user-friendly system to manage hospital operations, including patient records, appointments, staff management, and more.
-- **Language**: Implemented in **Java** for robust functionality and cross-platform compatibility.
+## 📜 Project Overview 
+- **Purpose**: Provide expert advice in a specific domain using logical rules and facts.
+- **Language**: Implemented in **Prolog** for reasoning and inference.
 - **Features**:
-  - Intuitive **Graphical User Interface (GUI)** for easy navigation.
-  - Centralized database management for storing patient, doctor, and staff records.
-  - Real-time updates and access to patient records, appointments, and billing information.
+  - Uses a well-defined flowchart for logical decision-making.
+  - Efficiently queries and infers results based on user inputs.
 
 ## 🎯 Objectives
 
-- ✅ Develop a hospital management system capable of handling core operational needs.
-- ✅ Provide accurate and real-time information for better hospital workflow.
-- ✅ Implement a user-friendly interface to reduce complexity for staff and administrators.
-- ✅ Ensure data integrity and secure access to sensitive hospital records.
+✅ Develop an expert system capable of solving complex problems based on user input.
+✅ Provide accurate advice by applying logical rules and facts stored in the system.
+✅ Implement clear and modular logic for efficient reasoning.
+✅ Create a flowchart to visualize the decision-making process for better understanding.
 
 ## 📍 Key Requirements
+1. **Libraries**:
+   - **SWI-Prolog** or any compatible Prolog interpreter.
 
-### Libraries and Tools
-- **JavaFX/Swing** for GUI development.
-- **MySQL** database for storing hospital data.
-- **JDBC** for database connectivity.
+2. **Files**:
+   - Source File.pl: Contains all rules, facts, and queries for the expert system.
+   - flowchart.png: Visual representation of the system's logical workflow.
 
-### System Requirements
-- A computer with **Windows, macOS, or Linux**.
-- **Java Development Kit (JDK)** installed (minimum version 8).
-- **MySQL Server** for database functionality.
-
+3. **System Requirements**:
+   - A computer with **Windows, macOS, or Linux**.
+   - At least **1 GB of free disk space** for Prolog installation and project files.
