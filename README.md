@@ -11,21 +11,21 @@ Welcome to the **Projects Repository**! This repository serves as a centralized 
   Each branch corresponds to a unique project. You can switch between branches to explore individual project details.
 
 ### Current Projects:
-1. **Cybersecurity Network_Cisco** [Go to Branch](8)
+1. **Cybersecurity Network_Cisco** 
 
-2. **Finding Kth Largest Element Algorithm Analysis** [Go to Branch](7)
+2. **Finding Kth Largest Element Algorithm Analysis** 
 
-3. **Alshifaa Hospital Management System** [Go to Branch](6)
+3. **Alshifaa Hospital Management System** 
 
-4. **Computer Recommendation Expert System_Prolog ** [Go to Branch](5)
+4. **Computer Recommendation Expert System_Prolog** 
 
-5. **Deep-Fake-Detection-Using-DL ** [Go to Branch](4)
+5. **Deep-Fake-Detection-Using-DL** 
 
-6. **Galaxy-Zoo-Classification ** [Go to Branch](3)
+6. **Galaxy-Zoo-Classification** 
 
-7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques ** [Go to Branch](2)
+7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques** [
 
-8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning" ** [Go to Branch](1)
+8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"** 
 
 ## 📚 Purpose
 
