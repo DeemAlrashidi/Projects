@@ -1,32 +1,39 @@
-# 🏥 Al Shifaa Hospital Management System
+# 📊 Algorithm Analysis: Finding the Kth Largest Element
 
-*This project implements a **Hospital Management System** using **Java** with a user-friendly graphical interface, streamlining hospital operations and ensuring efficient management.*
+*This project explores the efficiency of three sorting algorithms – **Heapsort, Selection Sort, and Quicksort** – in identifying the **kth largest element** within an array. The study provides both theoretical and empirical analyses, showcasing the strengths and weaknesses of each algorithm through performance evaluation.*
 
 ## 📜 Project Overview
 
-- **Purpose**: Provide an efficient and user-friendly system to manage hospital operations, including patient records, appointments, staff management, and more.
-- **Language**: Implemented in **Java** for robust functionality and cross-platform compatibility.
-- **Features**:
-  - Intuitive **Graphical User Interface (GUI)** for easy navigation.
-  - Centralized database management for storing patient, doctor, and staff records.
-  - Real-time updates and access to patient records, appointments, and billing information.
+✅ Implementation of **Heapsort, Selection Sort, and Quicksort** for `kth` largest element retrieval.  
+✅ **Empirical analysis** through execution time comparisons.  
+✅ **Time and space complexity** evaluation of each algorithm.  
+✅ **Graphical representation** of algorithmic performance under different conditions.  
+✅ **Case studies** with varying array structures (random, sorted, reversed).  
 
-## 🎯 Objectives
 
-- ✅ Develop a hospital management system capable of handling core operational needs.
-- ✅ Provide accurate and real-time information for better hospital workflow.
-- ✅ Implement a user-friendly interface to reduce complexity for staff and administrators.
-- ✅ Ensure data integrity and secure access to sensitive hospital records.
+## 🔬 Project Objectives
 
-## 📍 Key Requirements
+- Implement and evaluate **three sorting algorithms** for the `kth` largest element problem.
+- Compare **time complexity and efficiency** across different array sizes.
+- Identify the most efficient algorithm for varying conditions.
+- Provide **visual performance analysis** using running time graphs.
 
-### Libraries and Tools
-- **JavaFX/Swing** for GUI development.
-- **MySQL** database for storing hospital data.
-- **JDBC** for database connectivity.
 
-### System Requirements
-- A computer with **Windows, macOS, or Linux**.
-- **Java Development Kit (JDK)** installed (minimum version 8).
-- **MySQL Server** for database functionality.
+### 🔧 Technologies Used
 
+- **Programming Language**: Python  
+- **Libraries**:
+  - `matplotlib` (for visualizing algorithm behavior)
+  - `numpy` (for generating test cases)
+  - `time` (for measuring execution time)
+
+## 🏆 Algorithm Performance Summary
+
+| Algorithm        | Best Case      | Average Case   | Worst Case     |
+|-----------------|---------------|---------------|---------------|
+| **Quickselect** | `O(n)`         | `O(n)`        | `O(n²)`       |
+| **Heapsort**    | `O(n log n)`   | `O(n log n)`  | `O(n log n)`  |
+| **Selection Sort** | `O(k * n)` | `O(k * n)`    | `O(n²)`       |
+
+## ✨ Acknowledgments
+*Special thanks to Dr. Atta-ur-rahman for his continued support on this project*
