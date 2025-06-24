@@ -1,38 +1,26 @@
-# 🌟 Projects Repository
+# ⚽ Real-Time Football Collision Detection & Player Tracking with Deep Learning
 
-Welcome to the **Projects Repository**! This repository serves as a centralized hub for managing and sharing multiple projects. Each branch within this repository is dedicated to a specific project, complete with its own codebase, documentation, and resources.
+## 📌 Overview
 
-## 📂 Repository Structure
+This project presents an **end-to-end computer vision system** for:
 
-- **Main Branch**:  
-  Contains an overview and serves as the entry point to navigate the various projects housed within this repository.
+- 🧍 Real-time **football player detection** using YOLOv8  
+- 🔁 **Multi-object tracking** with DeepSORT  
+- 🏃 **Velocity estimation** and motion vectors  
+- 💥 **Collision prediction** with severity classification  
+- 📊 Automatic **report generation** with heatmaps and visual analytics
 
-- **Branches**:  
-  Each branch corresponds to a unique project. You can switch between branches to explore individual project details.
+The solution demonstrates how to apply deep learning and vision techniques to enhance sports analytics, performance review, and injury prevention.
 
-### Current Projects:
-1. **Cybersecurity Network_Cisco** 
+---
 
-2. **Finding Kth Largest Element Algorithm Analysis** 
+## 🧠 Technologies Used
 
-3. **Alshifaa Hospital Management System** 
-
-4. **Computer Recommendation Expert System_Prolog** 
-
-5. **Deep-Fake-Detection-Using-DL** 
-
-6. **Galaxy-Zoo-Classification** 
-
-7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques** [
-
-8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"** 
-
-## 📚 Purpose
-
-This repository was created to:
-- Consolidate various projects under a single repository.
-- Facilitate collaboration and version control for multiple projects.
-- Serve as a portfolio showcasing diverse technical skills and expertise.
-
-## 📧 Contact
-*For questions, feel free to contact me at deemalrashidi03@gmail.com*
+- `Python`
+- `YOLOv8` for object detection
+- `DeepSORT` for multi-object tracking
+- `OpenCV` for video preprocessing
+- `Matplotlib` & `Seaborn` for visualization
+- `Streamlit` (optional) for UI
+- `Kaggle Football Player Segmentation Dataset`
+- `LaTeX / FPDF` for PDF report generation
