@@ -1,38 +1,30 @@
-# 🌟 Projects Repository
+# ⚡ Seizure Detection with VAE-GANs & GNNs: A Graph-Based Deep Learning Framework
 
-Welcome to the **Projects Repository**! This repository serves as a centralized hub for managing and sharing multiple projects. Each branch within this repository is dedicated to a specific project, complete with its own codebase, documentation, and resources.
+---
 
-## 📂 Repository Structure
+## 🧠 Project Overview
 
-- **Main Branch**:  
-  Contains an overview and serves as the entry point to navigate the various projects housed within this repository.
+This project introduces a deep learning pipeline that integrates:
+- **VAE-GAN**: Generates synthetic seizure EEG segments to solve data imbalance
+- **GNN (Graph Neural Network)**: Performs seizure classification using graph-based relationships
+- **End-to-End Pipeline**: Includes EEG signal preprocessing, feature extraction, augmentation, graph construction, and final classification
 
-- **Branches**:  
-  Each branch corresponds to a unique project. You can switch between branches to explore individual project details.
+---
 
-### Current Projects:
-1. **Cybersecurity Network_Cisco** 
+## 📌 Key Features
 
-2. **Finding Kth Largest Element Algorithm Analysis** 
+- 🧬 EEG signal preprocessing (normalization, segmentation)
+- 🎨 VAE-GAN-based synthetic data generation
+- 🧠 Graph construction via similarity network (k-NN)
+- 🔎 GNN-based seizure classification
+- 📊 Performance reports, confusion matrix, ROC curve & AUC = **1.00**
 
-3. **Alshifaa Hospital Management System** 
+---
 
-4. **Computer Recommendation Expert System_Prolog** 
+## 🧪 Technologies Used
 
-5. **Deep-Fake-Detection-Using-DL** 
-
-6. **Galaxy-Zoo-Classification** 
-
-7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques** [
-
-8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"** 
-
-## 📚 Purpose
-
-This repository was created to:
-- Consolidate various projects under a single repository.
-- Facilitate collaboration and version control for multiple projects.
-- Serve as a portfolio showcasing diverse technical skills and expertise.
-
-## 📧 Contact
-*For questions, feel free to contact me at deemalrashidi03@gmail.com*
+- Python
+- TensorFlow / Keras
+- PyTorch Geometric (PyG)
+- Scikit-learn
+- NumPy / Pandas / Matplotlib / Seaborn
