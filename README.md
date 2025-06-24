@@ -1,38 +1,35 @@
-# 🌟 Projects Repository
+# 🧠 From Binary to Trinary: AI-Powered Seizure Classification System
 
-Welcome to the **Projects Repository**! This repository serves as a centralized hub for managing and sharing multiple projects. Each branch within this repository is dedicated to a specific project, complete with its own codebase, documentation, and resources.
+> Enhancing the classification of Epileptic, Non-Epileptic, and Psychogenic seizures using Deep Learning and Generative AI.
 
-## 📂 Repository Structure
+## 📌 Overview
 
-- **Main Branch**:  
-  Contains an overview and serves as the entry point to navigate the various projects housed within this repository.
+This project aims to build an advanced AI diagnostic system that classifies EEG data into three categories:
+- **Epileptic Seizures**
+- **Psychogenic Non-Epileptic Seizures (PNES)**
+- **Non-Seizure EEG Data**
 
-- **Branches**:  
-  Each branch corresponds to a unique project. You can switch between branches to explore individual project details.
+By combining **Deep Learning**, **Generative AI**, and **Large Language Models (LLMs)**, this platform enhances diagnosis accuracy, reduces misdiagnosis, and streamlines healthcare workflows — all in alignment with **Saudi Vision 2030**.
 
-### Current Projects:
-1. **Cybersecurity Network_Cisco** 
+---
 
-2. **Finding Kth Largest Element Algorithm Analysis** 
+## 🚀 Features
 
-3. **Alshifaa Hospital Management System** 
+- ⚡ Automated EEG signal analysis using CNNs, LSTM, and GANs
+- 🧠 Trinary classification of seizure types
+- 📊 Contextual enhancement using LLMs for patient diagnosis history
+- 💬 AI-powered chatbot for patient and doctor support
+- 📈 Real-time dashboard with appointment and medication tracking
+- 📥 Doctor upload & review of EEG data with analysis reports
 
-4. **Computer Recommendation Expert System_Prolog** 
+---
 
-5. **Deep-Fake-Detection-Using-DL** 
+## 🧠 Technologies
 
-6. **Galaxy-Zoo-Classification** 
+- Python, TensorFlow, PyTorch, Keras
+- EEG Processing: MNE, SciPy
+- Deep Learning Models: CNN, LSTM, GAN
+- NLP/LLM Integration: GPT-based models
+- Web UI: Streamlit / Flask (modular)
+- Database: MySQL / SQLite
 
-7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques** [
-
-8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"** 
-
-## 📚 Purpose
-
-This repository was created to:
-- Consolidate various projects under a single repository.
-- Facilitate collaboration and version control for multiple projects.
-- Serve as a portfolio showcasing diverse technical skills and expertise.
-
-## 📧 Contact
-*For questions, feel free to contact me at deemalrashidi03@gmail.com*
