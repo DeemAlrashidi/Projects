@@ -25,7 +25,13 @@ Welcome to the **Projects Repository**! This repository serves as a centralized 
 
 7. **Fake-Audio-Detection-Using-NLP-&-DL-Techniques** [
 
-8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"** 
+8. **FuelWise-"Fuel-Consumption-Prediction-using-Machine-Learning"**
+
+9. Gratuation Project: Epileptech
+
+10. Seizure Detection Using VAE-GANs and GNNs
+
+11. Football Analytics_Computer Vision
 
 ## 📚 Purpose
 
